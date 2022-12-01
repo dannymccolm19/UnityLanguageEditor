@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0439dcbd3df26b04c84c63fc33bfae06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - english: {fileID: 11400000, guid: 94a2769f0aa516e48ae4589426a3413c, type: 2}
+  - french: {fileID: 11400000, guid: dfe84f68ae4be5f48927f7c1a903b431, type: 2}
+  - italian: {fileID: 11400000, guid: 76d396e23d8e19349ad545df199d0b4d, type: 2}
+  - spanish: {fileID: 11400000, guid: 3e7e301f51b3b3442bb2857ce92677b8, type: 2}
+  - german: {fileID: 11400000, guid: 677ba62fe33885548ae1400fd7c49593, type: 2}
+  - keyValues: {fileID: 11400000, guid: dcde8af543d68af47912b60f2cf2e3cd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
