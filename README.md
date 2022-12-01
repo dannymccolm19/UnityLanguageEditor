@@ -1,4 +1,6 @@
 # UnityLanguageEditor
+To use: Copy the files into your unity project. Everything in the assets folder is needed.
+
 I created a Scriptable Object class for each language to be translated, in each class there is just a new string array of length 100.
 I used a single EditorWindow to edit these arrays.
 The EditorWindow has multiple tabs, one for each language.
